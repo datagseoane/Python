@@ -6,9 +6,9 @@ Realitza la pràctica del notebook a GitHub **"03 EXAMINING DATA"** (fes una cò
 
 ## Exercici 2
 Fes les tasques de preprocessat  i adequació del Dataset que disposem en el repositori de GitHub **PRE-PROCESSING-DATA** amb l'objectiu de preparar-lo i treballar-lo com a dataframe per a extreure'n informació.
-* veure [*"Tasca_S4 T02.ipynb"](https://github.com/datagseoane/Python/blob/main/Sprint_4/visualitzacio_multiples_variables/Tasca_S4%20T02.ipynb)
+* veure ["Tasca_S4 T02.ipynb"](https://github.com/datagseoane/Python/blob/main/Sprint_4/visualitzacio_multiples_variables/Tasca_S4%20T02.ipynb)
 
 ## Exercici 3
 Mostra la teva creativitat. Què creus rellevant mostrar del Dataset "movies.dat" de l'exercici anterior?
 Fes una o dues representacions gràfiques i justifica la teva elecció.
-* veure [*"Tasca_S4 T02.ipynb"](https://github.com/datagseoane/Python/blob/main/Sprint_4/visualitzacio_multiples_variables/Tasca_S4%20T02.ipynb)
+* veure ["Tasca_S4 T02.ipynb"](https://github.com/datagseoane/Python/blob/main/Sprint_4/visualitzacio_multiples_variables/Tasca_S4%20T02.ipynb)
